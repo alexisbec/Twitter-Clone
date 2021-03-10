@@ -30,3 +30,13 @@
 .notification:not(:last-child) {
     margin-bottom: 0;
 }
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+    margin-right: 1em;
+}
+
+.user-btn {
+    margin: 1em auto;
+}
