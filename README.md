@@ -31,7 +31,7 @@ Now your environment is ready to run the project! Type rails c (for console) or 
 👤 **Alexis Varela**
 
 - GitHub: [@alexisbec](https://github.com/alexisbec)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/alexbec)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexis-varela-2584111b7/)
 
 ## 🤝 Contributing
 
